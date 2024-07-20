@@ -60,7 +60,7 @@ After logging in, admins can:
 ### Team Lead
 
 **Name:** Stanley Pratama Teguh
-**NIM:** 2702311566
+**NIM:** 2702311566 <br>
 **Responsibilities:**  
 - Oversee project development and ensure timelines are met.
 - Review code and manage project scope and deliverables.
@@ -72,7 +72,7 @@ After logging in, admins can:
 ### Team Members
 
 **Name:** Nico Wijaya Hariyanto  
-**NIM:** 2702223260
+**NIM:** 2702223260 <br>
 **Responsibilities:**  
 - Add dummy data
 - Design the login and register
@@ -81,12 +81,12 @@ After logging in, admins can:
 
 
 **Name:** Alexander Ricky Budianto
-**NIM:** 2702224950
+**NIM:** 2702224950 <br>
 **Responsibilities:**  
 - Make CRUD system
 - Make SQL
 
 
 
----
+
 
