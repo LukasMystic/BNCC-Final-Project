@@ -69,6 +69,7 @@ After logging in, admins can:
 - Add the invoice system
 - Add searching and filtering system
 - Design all the front end (except for login and register)
+- Make CRUD system
 
 ### Team Members
 
@@ -84,7 +85,6 @@ After logging in, admins can:
 **Name:** Alexander Ricky Budianto<br>
 **NIM:** 2702224950 <br>
 **Responsibilities:**  
-- Make CRUD system
 - Make SQL
 
 
