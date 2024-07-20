@@ -16,7 +16,8 @@ Toyland Treasure is an e-commerce application developed using Laravel, designed 
   - **Add to Cart:** Add toys to the cart, validate funds at checkout, and update the invoice if successful.
 - **Admin Features:** 
   - Manage toy inventory by viewing, searching, filtering, adding, editing, and deleting toys.
-
+- We also added SQL just incase if the migration is wrong
+  
 ## Technologies Used
 
 - **Laravel:** PHP framework for web application development.
